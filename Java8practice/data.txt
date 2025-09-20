@@ -1,0 +1,3 @@
+this is an example of
+stream from files
+this file contains my name hari krishna
